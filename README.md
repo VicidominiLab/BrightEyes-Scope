@@ -1,7 +1,7 @@
 ![alt text](https://github.com/VicidominiLab/BrightEyes-Scope/blob/main/CADandImages/BrightEyes-Scope_render.png "BrightEyes-Scope")
 
 # BrightEyes-Scope
-This repository accompanies the publication of BrightEyes-Scope, an open-source microscope architecture providing guidelines for building a laser-scanning microscope equipped with a SPAD array detector. The system enables Image Scanning Microscopy (ISM), offering an upgrade to conventional confocal microscopy.
+This repository accompanies the publication of BrightEyes-Scope, an reference microscope architecture providing guidelines for building a laser-scanning microscope equipped with a SPAD array detector. The system enables Image Scanning Microscopy (ISM), offering an upgrade to conventional confocal microscopy.
 
 The codes are Jupyter Notebook.
 
